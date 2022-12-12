@@ -1,0 +1,5 @@
+<p>
+  Selamat datang di kelas{{ mataKuliah }}!
+<p>
+<p *ngif="mataKuliah !='pemograman Framework">Mata kuliah  diganti</p>
+<button (click)="mataKuliah= 'Pemograman Visual'">Ganti Mata Kuliah</button>

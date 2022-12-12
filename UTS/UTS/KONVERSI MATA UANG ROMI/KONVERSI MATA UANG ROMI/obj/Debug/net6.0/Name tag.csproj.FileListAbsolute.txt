@@ -1,0 +1,15 @@
+D:\Code\Name tag - Copy\bin\Debug\net6.0\Name tag.exe
+D:\Code\Name tag - Copy\bin\Debug\net6.0\Name tag.deps.json
+D:\Code\Name tag - Copy\bin\Debug\net6.0\Name tag.runtimeconfig.json
+D:\Code\Name tag - Copy\bin\Debug\net6.0\Name tag.dll
+D:\Code\Name tag - Copy\bin\Debug\net6.0\Name tag.pdb
+D:\Code\Name tag - Copy\obj\Debug\net6.0\Name tag.csproj.AssemblyReference.cache
+D:\Code\Name tag - Copy\obj\Debug\net6.0\Name tag.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Name tag - Copy\obj\Debug\net6.0\Name tag.AssemblyInfoInputs.cache
+D:\Code\Name tag - Copy\obj\Debug\net6.0\Name tag.AssemblyInfo.cs
+D:\Code\Name tag - Copy\obj\Debug\net6.0\Name tag.csproj.CoreCompileInputs.cache
+D:\Code\Name tag - Copy\obj\Debug\net6.0\Name tag.dll
+D:\Code\Name tag - Copy\obj\Debug\net6.0\refint\Name tag.dll
+D:\Code\Name tag - Copy\obj\Debug\net6.0\Name tag.pdb
+D:\Code\Name tag - Copy\obj\Debug\net6.0\Name tag.genruntimeconfig.cache
+D:\Code\Name tag - Copy\obj\Debug\net6.0\ref\Name tag.dll

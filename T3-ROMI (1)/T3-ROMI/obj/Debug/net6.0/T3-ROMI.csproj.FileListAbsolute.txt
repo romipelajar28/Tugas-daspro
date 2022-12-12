@@ -1,0 +1,15 @@
+C:\Users\fixri\Desktop\Project\T3-ROMI\bin\Debug\net6.0\T3-ROMI.exe
+C:\Users\fixri\Desktop\Project\T3-ROMI\bin\Debug\net6.0\T3-ROMI.deps.json
+C:\Users\fixri\Desktop\Project\T3-ROMI\bin\Debug\net6.0\T3-ROMI.runtimeconfig.json
+C:\Users\fixri\Desktop\Project\T3-ROMI\bin\Debug\net6.0\T3-ROMI.dll
+C:\Users\fixri\Desktop\Project\T3-ROMI\bin\Debug\net6.0\T3-ROMI.pdb
+C:\Users\fixri\Desktop\Project\T3-ROMI\obj\Debug\net6.0\T3-ROMI.csproj.AssemblyReference.cache
+C:\Users\fixri\Desktop\Project\T3-ROMI\obj\Debug\net6.0\T3-ROMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixri\Desktop\Project\T3-ROMI\obj\Debug\net6.0\T3-ROMI.AssemblyInfoInputs.cache
+C:\Users\fixri\Desktop\Project\T3-ROMI\obj\Debug\net6.0\T3-ROMI.AssemblyInfo.cs
+C:\Users\fixri\Desktop\Project\T3-ROMI\obj\Debug\net6.0\T3-ROMI.csproj.CoreCompileInputs.cache
+C:\Users\fixri\Desktop\Project\T3-ROMI\obj\Debug\net6.0\T3-ROMI.dll
+C:\Users\fixri\Desktop\Project\T3-ROMI\obj\Debug\net6.0\refint\T3-ROMI.dll
+C:\Users\fixri\Desktop\Project\T3-ROMI\obj\Debug\net6.0\T3-ROMI.pdb
+C:\Users\fixri\Desktop\Project\T3-ROMI\obj\Debug\net6.0\T3-ROMI.genruntimeconfig.cache
+C:\Users\fixri\Desktop\Project\T3-ROMI\obj\Debug\net6.0\ref\T3-ROMI.dll

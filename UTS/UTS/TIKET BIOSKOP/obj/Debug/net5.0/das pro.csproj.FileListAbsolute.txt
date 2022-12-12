@@ -1,0 +1,64 @@
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\das pro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\das pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\das pro.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\das pro.AssemblyInfo.cs
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\das pro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\das pro\bin\Debug\net5.0\das pro.exe
+C:\Users\User\Desktop\das pro\bin\Debug\net5.0\das pro.deps.json
+C:\Users\User\Desktop\das pro\bin\Debug\net5.0\das pro.runtimeconfig.json
+C:\Users\User\Desktop\das pro\bin\Debug\net5.0\das pro.runtimeconfig.dev.json
+C:\Users\User\Desktop\das pro\bin\Debug\net5.0\das pro.dll
+C:\Users\User\Desktop\das pro\bin\Debug\net5.0\ref\das pro.dll
+C:\Users\User\Desktop\das pro\bin\Debug\net5.0\das pro.pdb
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\das pro.dll
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\ref\das pro.dll
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\das pro.pdb
+C:\Users\User\Desktop\das pro\obj\Debug\net5.0\das pro.genruntimeconfig.cache
+D:\Latihan\das pro\bin\Debug\net5.0\das pro.exe
+D:\Latihan\das pro\bin\Debug\net5.0\das pro.deps.json
+D:\Latihan\das pro\bin\Debug\net5.0\das pro.runtimeconfig.json
+D:\Latihan\das pro\bin\Debug\net5.0\das pro.runtimeconfig.dev.json
+D:\Latihan\das pro\bin\Debug\net5.0\das pro.dll
+D:\Latihan\das pro\bin\Debug\net5.0\ref\das pro.dll
+D:\Latihan\das pro\bin\Debug\net5.0\das pro.pdb
+D:\Latihan\das pro\obj\Debug\net5.0\das pro.csproj.AssemblyReference.cache
+D:\Latihan\das pro\obj\Debug\net5.0\das pro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Latihan\das pro\obj\Debug\net5.0\das pro.AssemblyInfoInputs.cache
+D:\Latihan\das pro\obj\Debug\net5.0\das pro.AssemblyInfo.cs
+D:\Latihan\das pro\obj\Debug\net5.0\das pro.csproj.CoreCompileInputs.cache
+D:\Latihan\das pro\obj\Debug\net5.0\das pro.dll
+D:\Latihan\das pro\obj\Debug\net5.0\ref\das pro.dll
+D:\Latihan\das pro\obj\Debug\net5.0\das pro.pdb
+D:\Latihan\das pro\obj\Debug\net5.0\das pro.genruntimeconfig.cache
+D:\Latihan\Variable\obj\Debug\net5.0\das pro.csproj.AssemblyReference.cache
+D:\Latihan\Variable\obj\Debug\net5.0\das pro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Latihan\Variable\obj\Debug\net5.0\das pro.AssemblyInfoInputs.cache
+D:\Latihan\Variable\obj\Debug\net5.0\das pro.AssemblyInfo.cs
+D:\Latihan\Variable\obj\Debug\net5.0\das pro.csproj.CoreCompileInputs.cache
+D:\Latihan\Variable\obj\Debug\net5.0\das pro.dll
+D:\Latihan\Variable\obj\Debug\net5.0\ref\das pro.dll
+D:\Latihan\Variable\obj\Debug\net5.0\das pro.pdb
+D:\Latihan\Variable\bin\Debug\net5.0\das pro.exe
+D:\Latihan\Variable\bin\Debug\net5.0\das pro.deps.json
+D:\Latihan\Variable\bin\Debug\net5.0\das pro.runtimeconfig.json
+D:\Latihan\Variable\bin\Debug\net5.0\das pro.runtimeconfig.dev.json
+D:\Latihan\Variable\bin\Debug\net5.0\das pro.dll
+D:\Latihan\Variable\bin\Debug\net5.0\ref\das pro.dll
+D:\Latihan\Variable\bin\Debug\net5.0\das pro.pdb
+D:\Latihan\Variable\obj\Debug\net5.0\das pro.genruntimeconfig.cache
+D:\Latihan\if-else-statement\obj\Debug\net5.0\das pro.csproj.AssemblyReference.cache
+D:\Latihan\if-else-statement\obj\Debug\net5.0\das pro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Latihan\if-else-statement\obj\Debug\net5.0\das pro.AssemblyInfoInputs.cache
+D:\Latihan\if-else-statement\obj\Debug\net5.0\das pro.AssemblyInfo.cs
+D:\Latihan\if-else-statement\obj\Debug\net5.0\das pro.csproj.CoreCompileInputs.cache
+D:\Latihan\if-else-statement\obj\Debug\net5.0\das pro.dll
+D:\Latihan\if-else-statement\obj\Debug\net5.0\ref\das pro.dll
+D:\Latihan\if-else-statement\obj\Debug\net5.0\das pro.pdb
+D:\Latihan\if-else-statement\bin\Debug\net5.0\das pro.exe
+D:\Latihan\if-else-statement\bin\Debug\net5.0\das pro.deps.json
+D:\Latihan\if-else-statement\bin\Debug\net5.0\das pro.runtimeconfig.json
+D:\Latihan\if-else-statement\bin\Debug\net5.0\das pro.runtimeconfig.dev.json
+D:\Latihan\if-else-statement\bin\Debug\net5.0\das pro.dll
+D:\Latihan\if-else-statement\bin\Debug\net5.0\ref\das pro.dll
+D:\Latihan\if-else-statement\bin\Debug\net5.0\das pro.pdb
+D:\Latihan\if-else-statement\obj\Debug\net5.0\das pro.genruntimeconfig.cache

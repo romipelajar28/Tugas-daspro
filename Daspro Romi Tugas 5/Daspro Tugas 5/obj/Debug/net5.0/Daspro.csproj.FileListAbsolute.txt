@@ -1,0 +1,5 @@
+D:\Daspro\obj\Debug\net5.0\Daspro.csproj.AssemblyReference.cache
+D:\Daspro\obj\Debug\net5.0\Daspro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daspro\obj\Debug\net5.0\Daspro.AssemblyInfoInputs.cache
+D:\Daspro\obj\Debug\net5.0\Daspro.AssemblyInfo.cs
+D:\Daspro\obj\Debug\net5.0\Daspro.csproj.CoreCompileInputs.cache

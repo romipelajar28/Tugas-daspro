@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\LOP\bin\Debug\net6.0\LOP.exe
+C:\Users\hp\Desktop\LOP\bin\Debug\net6.0\LOP.deps.json
+C:\Users\hp\Desktop\LOP\bin\Debug\net6.0\LOP.runtimeconfig.json
+C:\Users\hp\Desktop\LOP\bin\Debug\net6.0\LOP.dll
+C:\Users\hp\Desktop\LOP\bin\Debug\net6.0\LOP.pdb
+C:\Users\hp\Desktop\LOP\obj\Debug\net6.0\LOP.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\LOP\obj\Debug\net6.0\LOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\LOP\obj\Debug\net6.0\LOP.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\LOP\obj\Debug\net6.0\LOP.AssemblyInfo.cs
+C:\Users\hp\Desktop\LOP\obj\Debug\net6.0\LOP.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\LOP\obj\Debug\net6.0\LOP.dll
+C:\Users\hp\Desktop\LOP\obj\Debug\net6.0\refint\LOP.dll
+C:\Users\hp\Desktop\LOP\obj\Debug\net6.0\LOP.pdb
+C:\Users\hp\Desktop\LOP\obj\Debug\net6.0\LOP.genruntimeconfig.cache
+C:\Users\hp\Desktop\LOP\obj\Debug\net6.0\ref\LOP.dll
